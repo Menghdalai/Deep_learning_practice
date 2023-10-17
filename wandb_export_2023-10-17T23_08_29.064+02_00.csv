@@ -1,0 +1,6 @@
+"Name","learning_rate","neurons_FC1","neurons_FC2","optimizer","val_loss"
+"lunar-sweep-5","0.01","128","512","adam",""
+"hopeful-sweep-4","0.1","256","256","sgd","2.3123364448547363"
+"swept-sweep-3","0.1","512","256","adam","2.312744617462158"
+"generous-sweep-2","0.001","512","256","adam","1.6721038818359375"
+"playful-sweep-1","0.05","256","64","adam","2.3116157054901123"
